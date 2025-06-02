@@ -6,4 +6,5 @@ Hi ladys and gentleman!!i'm Matheus Freire!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm liked play videogames and reading books of adventure
 - link for my linkedin:http://linkedin.com/in/matheus-freire01
-+<h2 align="left" > I code with</h2>
++<h2 align="left" > I code with</h2>:
++<p align="left">
