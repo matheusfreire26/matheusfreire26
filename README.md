@@ -1,4 +1,4 @@
-Hi ladys and gentleman!!
+Hi ladys and gentleman!!i'm Matheus Freire!
 - 🔭I am currently studying at Cesar School in the first period of computer science.
 - 🌱 I’m currently learning about Python and arduino
 - 👯 I’m looking to collaborate on project shows tech design 
