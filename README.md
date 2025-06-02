@@ -5,4 +5,4 @@ Hi ladys and gentleman!!
 - 📫 How to reach me: mfpc@cesar.school
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: i'm liked play videogames and reading books of adventure
-
+- link for my linkedin:http://linkedin.com/in/matheus-freire01
