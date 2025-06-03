@@ -6,5 +6,22 @@ Hi ladys and gentleman!!i'm Matheus Freire!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm liked play videogames and reading books of adventure
 - link for my linkedin:http://linkedin.com/in/matheus-freire01
-+<h2 align="left" > I code with</h2>
-+<p align="left"> Python; <br>  HTML; <br>  CSS; <br>  Javascrip; <br>  Arduino; <br>
+
+ 📚 The languages ​​I am studying ​​:
+- Python  
+- HTML5   
+- CSS3   
+- JavaScript   
+- Arduino
+  
+🎯objectives:
+
+- create a successful company.
+- learn more about programming and robotics.
+
+🌐language I program in:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+</p>
